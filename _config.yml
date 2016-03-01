@@ -1,0 +1,28 @@
+name: YesGeoffrey
+favicon: null
+layout_spectrum: 0.62786725605838
+typography_spectrum: 0.7733710058964789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8043758077546954
+  lightness: 0.4150126751046628
+  saturation: 0.6754292547702789
+  rhythmicContrast: 0.9747310630045831
+purpose: []
